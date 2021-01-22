@@ -1,4 +1,4 @@
-﻿# ChatServer
+﻿# ChatClient
 
 Projeto modelo de estudo de aplicação de conceitos SignalR em .NET.
 ## Prerequisites
